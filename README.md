@@ -55,7 +55,7 @@
 
 ## Author Syed Murtuza Ali Abdi - mutuazaali@gmail.com
 ## submission git repository - https://github.com/MurtazaGitt/my-assaesment-rep
-## GHCR - ghcr.io/murtazagitt/nextjs-app:latest
+## GHCR - https://github.com/murtazagitt/my-assesment-rep/pkgs/container/nextjs-app
 
 
   
