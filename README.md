@@ -54,7 +54,7 @@
 - All deployment and image management is automated via GitHub Actions per assignment requirements.
 
 ## Author Syed Murtuza Ali Abdi - mutuazaali@gmail.com
-## submission git repository - https://github.com/MurtazaGitt/my-assaesment-rep
+## Submission git repository - https://github.com/MurtazaGitt/my-assaesment-rep
 ## GHCR - https://github.com/murtazagitt/my-assesment-rep/pkgs/container/nextjs-app
 
 
